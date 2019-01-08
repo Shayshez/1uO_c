@@ -2,7 +2,7 @@
 
 For pcb's and panels: https://pushermanproductions.com/product/plum-audio-1u-ornament-crime-pcb-and-aluminium-panel/
 
-Teensy Assembling (with Suervisor):https://youtu.be/IDsQhNgkL-Y
+Teensy Assembling (with Supervisor):https://youtu.be/IDsQhNgkL-Y
 
 OLED Screen Assembling: https://youtu.be/ywh_6SPNrSg 
 
