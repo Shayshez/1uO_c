@@ -12,3 +12,5 @@ OLED Screen Assembling: https://youtu.be/ywh_6SPNrSg
 ![Alt text](https://i0.wp.com/pushermanproductions.com/wp-content/uploads/2018/11/1u-OC-square.jpg?zoom=2.200000047683716&fit=850%2C850&ssl=1 "1uO_c")
 
 
+![Alt text](IMG_0324.jpeg "1uO_c")
+      
